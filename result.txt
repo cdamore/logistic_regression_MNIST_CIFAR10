@@ -1,0 +1,8 @@
+OrderedDict([   (   'MNIST',
+                    OrderedDict([   ('accuracy', 0.912),
+                                    ('correct_predict', 9120),
+                                    ('run_time', 25.70278648599924)])),
+                (   'CIFAR10',
+                    OrderedDict([   ('accuracy', 0.3987),
+                                    ('correct_predict', 3987),
+                                    ('run_time', 60.83226573900174)]))])
